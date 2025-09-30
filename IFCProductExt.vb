@@ -186,7 +186,7 @@ Public Class IFCProductExt
             OK = 1
             FAIL = 2
         End Enum
-
+        ' 1
         Public Property Check As ECheck = ECheck.NONE
         Public Property Description As String
 
